@@ -1,0 +1,2 @@
+Números Sorteados é um jogo simples e divertido onde você escolhe a quantidade de números que deseja sortear e define o intervalo. O programa gera aleatoriamente números dentro do intervalo especificado, proporcionando uma experiência personalizada e emocionante.
+Exemplo: Se você escolher sortear 10 números entre 1 e 10, o jogo irá gerar uma sequência aleatória de 10 números dentro desse intervalo.
